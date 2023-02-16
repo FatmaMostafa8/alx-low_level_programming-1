@@ -2,12 +2,12 @@
 
 /*
  * main - Entry point
- * function puts will print "\"Programming is like building a multilingual puzzle"
+ * description:  function puts will print "\"Programming is like building a multilingual puzzle"
  * Return: 0
  */
 
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle");
 	return 0;
 }
