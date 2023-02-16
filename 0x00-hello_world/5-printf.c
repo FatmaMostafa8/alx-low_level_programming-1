@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
- * printf: prints with proper grammar, but the outcome is a piece of art, followed by a new line.
+ * printf: prints a string followed by a new line.
  * Return: 0
  */
 
