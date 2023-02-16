@@ -2,7 +2,7 @@
 
 /*
  * main - Entry point
- * description:  function puts will print "\"Programming is like building a multilingual puzzle"
+ * description: prints "\"Programming is like building a multilingual puzzle"
  * Return: 0
  */
 
