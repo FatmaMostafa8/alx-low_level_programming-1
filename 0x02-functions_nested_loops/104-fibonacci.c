@@ -13,7 +13,7 @@ int main(void)
 
 	printf("%lu, %lu", a, b);
 
-	for (i = 3; i <= 98; i++)
+	for (i = 3; i <= 100; i++)
 	{
 		c = a + b;
 		printf(", %lu", c);
@@ -25,4 +25,4 @@ int main(void)
 
 	return (0);
 }
-
+i
