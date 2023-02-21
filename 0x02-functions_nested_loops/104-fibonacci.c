@@ -8,21 +8,20 @@
 
 int main(void)
 {
-	int i;
-	unsigned long int a = 1, b = 2, c;
+    int i;
+    unsigned long int a = 1, b = 2, c;
 
-	printf("%lu, %lu", a, b);
+    printf("%lu, %lu", a, b);
 
-	for (i = 3; i <= 100; i++)
-	{
-		c = a + b;
-		printf(", %llu", c);
-		a = b;
-		b = c;
-	}
+    for (i = 3; i <= 98; i++)
+    {
+        c = a + b;
+        printf(", %lu", c);
+        a = b;
+        b = c;
+    }
 
-	printf("\n");
+    printf("\n");
 
-	return (0);
+    return (0);
 }
-i
